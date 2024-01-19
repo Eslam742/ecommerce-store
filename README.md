@@ -9,7 +9,7 @@ This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 A
 
 ## MAKE SURE YOU HAVE [ADMIN](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master) SETUP FIRST!
 
-[VIDEO TUTORIAL](https://youtu.be/5miHyP6lExg)
+
 
 Key Features:
 
